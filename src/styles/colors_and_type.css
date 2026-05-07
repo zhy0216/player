@@ -1,6 +1,5 @@
 /* ============================================================
-   Alumnium Design System — Colors & Type
-   Source of truth: alumnium.ai (Astro + Starlight theme)
+   Immersive Player Design System — Colors & Type
    Palette: Cerulean Blue (accent) + Zinc (neutrals)
    Fonts: platform default ui-sans-serif / ui-monospace stacks
    ============================================================ */
@@ -81,7 +80,7 @@
 }
 
 /* ============================================================
-   DARK (default on alumnium.ai)
+   DARK (default)
    ============================================================ */
 :root,
 :root[data-theme="dark"] {

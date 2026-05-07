@@ -26,7 +26,7 @@ src/
   App.jsx                   # root <ImmersiveApp />
   index.css                 # base styles + keyframes
   styles/
-    colors_and_type.css     # Alumnium design system tokens
+    colors_and_type.css     # Immersive Player design system tokens
   data/
     tracks.js               # TRACKS, ALBUMS, getLyrics, fmt
   player/
